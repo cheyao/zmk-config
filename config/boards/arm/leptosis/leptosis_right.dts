@@ -10,7 +10,6 @@
 /{
     chosen {
 		zmk,battery = &fuelgauge;
-        zmk,battery = &vbatt;
     };
 
     kscan0: kscan {
