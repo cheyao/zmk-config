@@ -1,0 +1,10 @@
+/*
+ * Copyright (c) 2022 The ZMK Contributors
+ *
+ * SPDX-License-Identifier: MIT
+ */
+
+#include "../../../../miryoku/custom_config.h"
+#include "../../../../miryoku/mapping/36/leptosis.h"
+#include "../../../../miryoku/miryoku.dtsi"
+
