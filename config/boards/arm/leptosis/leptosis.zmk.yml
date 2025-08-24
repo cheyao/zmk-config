@@ -1,0 +1,15 @@
+file_format: "1"
+id: leptosis
+name: Leptosis
+type: board
+url: https://github.com/cheyao/leptosis
+arch: arm
+features:
+  - keys
+  - studio
+outputs:
+  - usb
+  - ble
+siblings:
+  - leptosis_left
+  - leptosis_right

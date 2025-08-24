@@ -1,0 +1,16 @@
+identifier: leptosis
+name: leptosis
+url: https://github.com/cheyao/leptosis
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
+  - xtools
+supported:
+  - usb_device
+  - ble
+  - ieee802154
+  - pwm
+  - watchdog
+  - i2c
